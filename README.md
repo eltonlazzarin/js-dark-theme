@@ -27,8 +27,6 @@ Simple dark theme that show how to switch between light and dark mode
 
 ## :information_source: How To Use
 
-### :rocket: Frontend
-
 ```bash
 # Run the app
 To run, use Go Live VS Code extension
