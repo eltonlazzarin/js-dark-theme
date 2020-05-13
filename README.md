@@ -32,7 +32,7 @@ Simple dark theme that show how to switch between light and dark mode
 To run, use Go Live VS Code extension
 ```
 
-### :memo: License
+## :memo: License
 
 This project is under the MIT license.
 
